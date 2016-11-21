@@ -1,0 +1,25 @@
+FnOff :AxesOff:ClrDraw
+Text(1,1,"INSTALLING VIRUS...")
+For(X,0,93,3)
+For(I,0,18)
+log(6494497)
+End
+Text(8,X,"0")
+End
+Text(15,38,"DONE!")
+For(I,0,60)
+log(89754634)
+End
+Text(21,18,"DEVICE INFECTED!")
+For(I,0,99)
+log(54797779)
+End
+UnArchive Pic9
+RecallPic 9
+Archive Pic9
+Repeat getKey
+End
+ClrHome
+ClrDraw
+DelVar IDelVar XDelVar YFnOn 
+AxesOn 
